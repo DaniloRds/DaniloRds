@@ -5,7 +5,7 @@
 
 - 📚 Estudando engenharia de software.
 - 📑 Tentando fazer alguns cursos de python.
-- 💜 [Minha loja](https://discord.gg/pbT5wVp8e9/)
+- 💜 [Meu Portifólio](Em Construção)
 
 <div align="left">
 <a href="https://github.com/DaniloRds">
