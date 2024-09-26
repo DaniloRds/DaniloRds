@@ -1,11 +1,11 @@
 ## 
 
-<h1 align="center">Prazer! Eu sou o Danilo</h1>
+<h1 align="center">Fala comigo! Me chamo Danilo.</h1>
 <h3 align="center">Atualmente estou estudando para me profissionalizar em front-end e mais adiante me tornar um fullstack!</h3>
 
-- 📚 Cursando engenharia de software na estácio.
-- 📑 Fazendo JS FULLSTACK na OneBitCode.
-- 💜 Meu Portifólio (em desenvolvimento)
+- 📚 Cursando engenharia de software na Estácio (6°).
+- 📑 Fazendo JS fullstack na OneBitCode.
+- 💜 Meu Portifólio: (em desenvolvimento)
 
 <div align="left">
 <a href="https://github.com/DaniloRds">
@@ -27,7 +27,7 @@
 ## 
 
 <div> 
-<a href="https://instagram.com/danilo_rds_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/danilao.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/pbT5wVp8e9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:danilorochads4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/danilo-rocha-79ba67248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
