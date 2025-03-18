@@ -1,11 +1,11 @@
 <h1 align="center">Fala comigo! Me chamo Danilo.</h1>
-<h3 align="center">Tenho 20 anos e atualmente estou estudando para me profissionalizar em front-end e mais adiante me tornar um fullstack!</h3>
+<h3 align="center">Tenho 21 anos e atualmente estou estudando para me profissionalizar em front-end e mais adiante me tornar um fullstack!</h3>
 
 <div align="center"> 
  
  ##
 
-📚 **Cursando engenharia de software na Estácio (6°). <br>
+📚 **Cursando engenharia de software na Estácio (7°). <br>
 📑 Fazendo JS fullstack na OneBitCode.  <br>
 💜 Meu Portifólio: (em desenvolvimento)**
 
