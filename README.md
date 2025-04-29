@@ -22,7 +22,7 @@
 
 <h3>💻 My Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,lua,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,lua,mysql,php)](https://skillicons.dev)
 
 <h3>⚙ Tools</h3>
 
